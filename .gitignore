@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Secrets / credentials (never upload)
+*.pfx
+
+# VS installer binaries
+Setup/Debug/
+Setup/Release/

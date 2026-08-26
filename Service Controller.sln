@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VBController", "VBController\VBController.vbproj", "{87D0A242-A2FA-464E-822C-42EB7C97F0FF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{A71665C6-FCCC-4068-8B45-23C5FBEDF26D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87D0A242-A2FA-464E-822C-42EB7C97F0FF}.Debug|x86.ActiveCfg = Debug|x86
+		{87D0A242-A2FA-464E-822C-42EB7C97F0FF}.Debug|x86.Build.0 = Debug|x86
+		{87D0A242-A2FA-464E-822C-42EB7C97F0FF}.Release|x86.ActiveCfg = Release|x86
+		{87D0A242-A2FA-464E-822C-42EB7C97F0FF}.Release|x86.Build.0 = Release|x86
+		{A71665C6-FCCC-4068-8B45-23C5FBEDF26D}.Debug|x86.ActiveCfg = Debug
+		{A71665C6-FCCC-4068-8B45-23C5FBEDF26D}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
