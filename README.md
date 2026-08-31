@@ -1,6 +1,6 @@
 # Service Controller
 
-VB.NET WinExe Windows service that starts and stops a named Windows service on a daily schedule. Default target is Fax; times come from `app.config` (`StartStopTime1`–`4` and `StopTimeSeconds`). Visual Studio 2010 solution `Service Controller.sln` builds `VBController` (`ServiceController.exe`, AssemblyCompany Dave Robinson 2011) and a Setup installer project.
+VB.NET WinExe Windows service that starts and stops a named Windows service on a daily schedule. Default target is Fax; times come from `app.config` (`StartStopTime1`-`4` and `StopTimeSeconds`). Visual Studio 2010 solution `Service Controller.sln` builds `VBController` (`ServiceController.exe`, AssemblyCompany Dave Robinson 2011) and a Setup installer project.
 
 **Source last updated:** 2011-09-20  
 **Language:** VB.NET  
