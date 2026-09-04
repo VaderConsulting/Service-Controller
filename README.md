@@ -11,6 +11,10 @@ VB.NET WinExe Windows service that starts and stops a named Windows service on a
 
 Open `Service Controller.sln` in Visual Studio.
 
+## Requirements
+
+- Visual Studio 2010, .NET Framework 2.0
+
 ## License
 
 MIT License. Copyright (c) 2026 VaderConsulting. See `LICENSE`.
