@@ -7,6 +7,12 @@ VB.NET WinExe Windows service that starts and stops a named Windows service on a
 **Target:** Visual Studio 2010 / .NET 2.0  
 **Output:** WinExe
 
+## Solution structure
+
+| Project | Language | Type | Purpose |
+| --- | --- | --- | --- |
+| see tree | see tree | see tree | Repository contents |
+
 ## How to open
 
 Open `Service Controller.sln` in Visual Studio.
@@ -14,6 +20,10 @@ Open `Service Controller.sln` in Visual Studio.
 ## Requirements
 
 - Visual Studio 2010, .NET Framework 2.0
+
+## Attribution and provenance
+
+Working copy from my Historical Dev folder.
 
 ## License
 
